@@ -1,1 +1,1 @@
-#Nidhi trading bot app
+# Nidhi trading BOT app
